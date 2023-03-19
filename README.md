@@ -20,8 +20,11 @@ Alexandria University, Faculty of Science, Computer Science Department.
     <a href="https://www.facebook.com/nada.alaaeldi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nada.alaaeldi" height="30" width="40" /></a>
     <a href="https://github.com/NadaAlaaEldeen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="nada-alaaeldeen" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/nada45200017" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="nada-alaaeldeen" height="30" width="40" /></a>
+     <a href="https://twitter.com/NadaAlaa452000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="nada-alaaeldeen" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/nada45200017" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" alt="nada-alaaeldeen" height="30" width="40" /></a>
       <a href="mailto: nada45200017@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="nada45200017@gmail.com" height="30" width="40" /></a>
 
+    
 </p>
 
 ## 🛠 Tech Stack
